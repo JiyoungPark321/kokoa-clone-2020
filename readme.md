@@ -1,4 +1,4 @@
-# kokoa clone
+# Kokoa Clone
 
 read me
 
