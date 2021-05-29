@@ -1,5 +1,10 @@
 # Kokoa Clone
 
-read me
-
 kokoa clone
+
+
+
+화면
+
+
+
