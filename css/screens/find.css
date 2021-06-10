@@ -1,6 +1,6 @@
-.main-screen {
+/* .main-screen {
   height: 100vh;
-}
+} */
 
 .recommended-friends {
   margin: 25px 0px;
@@ -22,10 +22,6 @@
   color: rgba(0, 0, 0, 0.5);
 }
 
-.open-chat {
-  height: 50%;
-}
-
 .open-chat__header {
   display: flex;
   justify-content: space-between;
@@ -42,6 +38,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  margin-bottom: 120px;
 }
 
 .open-post__title {
