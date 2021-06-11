@@ -1,6 +1,6 @@
 # COCONUT TALK   
 
-> 1. 배포주소 : https://jiyoungpark321.github.io/kokoa-clone/find.html
+> 1. 배포주소 : https://jiyoungpark321.github.io/coconut-talk/
 > 2. Notion : https://www.notion.so/23a15dabecdb4e68a294327b85d3c5d8
 
 
@@ -29,7 +29,7 @@
 
 ## 😎 프로젝트 산출물
 
-> 1. 배포주소 : https://jiyoungpark321.github.io/kokoa-clone/find.html
+> 1. 배포주소 : https://jiyoungpark321.github.io/coconut-talk/
 > 2. Notion : https://www.notion.so/23a15dabecdb4e68a294327b85d3c5d8
 >    - 공부한 내용을 Notion 에 정리하였습니다.
 >    - 이미 알고 있는 내용은 pass 라고 표기하였습니다.
